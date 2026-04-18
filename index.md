@@ -1,12 +1,14 @@
 # BoostKlient Wiki — Index
 
-> Maintained by LLM. Last updated: 2026-04-18. Total pages: 0.
+> Maintained by LLM. Last updated: 2026-04-18. Total pages: 4.
 
 ## Niches
-_No pages yet._
+- [[wiki/niches/pinterest-promotion]] — Продвижение бизнеса через Pinterest (SMM, охваты)
+- [[wiki/niches/wildberries-promotion]] — Продвижение WB-магазинов через Pinterest
+- [[wiki/niches/design-tools]] — Инструменты дизайна: Flyvi, Canva и др.
 
 ## Trends
-_No pages yet._
+- [[wiki/trends/pinterest-trends-2026]] — Тренды Pinterest 2026, rising, Q1
 
 ## Strategies
 _No pages yet._
